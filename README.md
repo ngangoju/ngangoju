@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Junior M. Ngango (@ngangoju)
-- 👀 I’m interested in Java Backend Development
-- 🌱 I’m currently learning NextJs, TailWind,... for Frontend Development
+- 👀 I’m a full-stack developer
+- 🌱 My stack is Java and JavaScript(Spring Boot, ReactJS, NextJs, TailWind,... )
 - 💞️ I’m looking to collaborate on some open-source projects
-- 📫 How to reach me : email - ngangoju@gmail.com
+- 📫 How to reach me: email - ngangoju@gmail.com
 
 <!---
 ngangoju/ngangoju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
